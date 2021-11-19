@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @UdithPremarathne
-- 👀 I make games :)
+-  Hi, I’m @UdithPremarathne
+-  🎮 I make games :)
 
 
 <!---
